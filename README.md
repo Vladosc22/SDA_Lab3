@@ -1,0 +1,13 @@
+-	Scopul lucrării: 
+-	Scopul lucrării este de a familiariza studentul cu mecanismul de creare a arborelui binar și operații elementare asupra acestuia, utilizînd pentru aceasta limbajul C.
+-	Problema
+-	Să se elaboreze un program ce va aloca dinamic un arbore binar de structuri și va realiza următoarele funcții, unde funcțiile date reprezintă opțiuni organizate într-un meniu în cadrul programului:
+-	citirea de la tastatură a elementelor arborelui;
+-	afișarea la consolă a elementelor arborelui;
+-	calcularea adîncimii arborelui;
+-	căutarea unui nod în baza unei chei de căutare;
+-	calcularea adîncimii unui nod (nodul va fi selectat în baza unei chei de căutare);
+-	calcularea înălțimii unui nod (nodul va fi selectat în baza unei chei de căutare);
+-	afișarea tuturor frunzelor arborelui;
+-	curățirea elementelor arborelui;
+-	eliberarea memoriei arborelui.
