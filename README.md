@@ -11,3 +11,5 @@
 -	afișarea tuturor frunzelor arborelui;
 -	curățirea elementelor arborelui;
 -	eliberarea memoriei arborelui.
+  
+[Chiochiu Vladislav TI-244 Lab 3 SDA.docx](https://github.com/user-attachments/files/25425358/Chiochiu.Vladislav.TI-244.Lab.3.SDA.docx)
